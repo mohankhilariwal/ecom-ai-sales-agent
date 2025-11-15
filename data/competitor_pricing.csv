@@ -1,0 +1,21 @@
+item,competitor_price,demand_level,season,event,competitor
+Winter Jacket,89.99,High,Winter,Black Friday,Amazon
+Winter Jacket,94.50,High,Winter,Black Friday,Walmart
+Winter Jacket,99.99,Medium,Winter,Regular,Target
+Running Shoes,49.99,High,Spring,Cyber Monday,Nike Outlet
+Running Shoes,55.00,Medium,Spring,Regular,Adidas
+Running Shoes,59.99,Low,Spring,End of Season,Foot Locker
+Smart Backpack,109.99,Medium,Fall,Back to School,Best Buy
+Smart Backpack,119.99,High,Fall,Back to School,Staples
+Smart Backpack,124.50,High,Fall,Black Friday,Amazon
+Leather Wallet,39.99,Low,All Year,Regular,Etsy
+Leather Wallet,45.00,Medium,All Year,Father's Day,Macy's
+Sunglasses,69.99,High,Summer,Memorial Day,Ray-Ban
+Sunglasses,74.99,High,Summer,Regular,Warby Parker
+Wireless Earbuds,129.99,Very High,All Year,Holiday Sale,Apple Store
+Wireless Earbuds,139.99,Very High,All Year,Black Friday,Best Buy
+Hiking Boots,109.99,Medium,Fall,Regular,REI
+Hiking Boots,119.99,High,Fall,Columbus Day,REI
+Yoga Mat,29.99,Low,All Year,Regular,Lululemon
+Yoga Mat,34.99,Medium,All Year,New Year Resolution,Target
+Coffee Maker,79.99,Very High,Winter,Holiday Sale,Williams Sonoma

@@ -1,0 +1,5 @@
+date,item_id,sales_quantity,category
+2025-01-01,1,10,Apparel
+2025-01-02,1,12,Apparel
+2025-01-03,1,8,Apparel
+2025-01-04,2,5,Footwear

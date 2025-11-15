@@ -1,0 +1,4 @@
+user_id,item_id,view_time,category,price
+1,1,2025-01-01,Apparel,99.99
+1,2,2025-01-02,Footwear,59.99
+2,1,2025-01-03,Apparel,99.99
