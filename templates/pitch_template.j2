@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <style>
+     body { font-family: Arial; margin: 40px; }
+     h1 { color: #2c3e50; }
+     .slide { page-break-after: always; margin-bottom: 40px; }
+     table { width: 100%; border-collapse: collapse; }
+     th, td { border: 1px solid #ddd; padding: 8px; }
+ </style>
+</head>
+<body>
+ <div class="slide">
+     <h1>Pivotree eCom Sales Accelerator</h1>
+     <p><strong>Target:</strong> {{ target_market }}</p>
+     <p><strong>AI Leader:</strong> {{ author }} | USPTO Patent {{ patent }}</p>
+ </div>
+
+ <div class="slide">
+     <h2>Top 3 AI-Powered Products</h2>
+     <table>
+         <tr><th>Product</th><th>Price</th><th>Edge</th></tr>
+         {% for p in products %}
+         <tr><td>{{ p.name }}</td><td>\${{ p.price }}</td><td>{{ p.edge }}</td></tr>
+         {% endfor %}
+     </table>
+ </div>
+</body>
+</html>
